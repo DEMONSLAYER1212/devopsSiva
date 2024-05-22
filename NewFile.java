@@ -1,4 +1,4 @@
 public class NewFile{
 public static void main(String[] args){
-	System.out.printlN("devopsTest");
+	System.out.println("devopsTest");
 }}
